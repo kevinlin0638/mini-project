@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="97b94871-59b0-42d2-a760-de7a5549e3bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$ni project idea.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/mini_project-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,8 @@
       <workItem from="1708595763794" duration="921000" />
       <workItem from="1708617571877" duration="536000" />
       <workItem from="1708618149076" duration="1451000" />
-      <workItem from="1708620825225" duration="355000" />
+      <workItem from="1708620825225" duration="1823000" />
+      <workItem from="1708785165393" duration="606000" />
     </task>
     <servers />
   </component>
