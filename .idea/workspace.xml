@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97b94871-59b0-42d2-a760-de7a5549e3bf" name="Default Changelist" comment="" />
+    <list default="true" id="97b94871-59b0-42d2-a760-de7a5549e3bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_data_processing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_data_processing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_network_analysis_task_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_network_analysis_task_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_network_analysis_task_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_network_analysis_task_2.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +53,7 @@
       <workItem from="1708620825225" duration="1823000" />
       <workItem from="1708785165393" duration="606000" />
       <workItem from="1708788251711" duration="282000" />
+      <workItem from="1710082948187" duration="4241000" />
     </task>
     <servers />
   </component>
