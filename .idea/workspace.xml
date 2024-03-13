@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b94871-59b0-42d2-a760-de7a5549e3bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/mini_project_network_analysis_task_2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/mini_project_network_analysis_task_2-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini_project_network_analysis_task_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_network_analysis_task_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mini_project_network_analysis_task_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_network_analysis_task_2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,8 @@
       <workItem from="1708785165393" duration="606000" />
       <workItem from="1708788251711" duration="282000" />
       <workItem from="1710082948187" duration="4241000" />
-      <workItem from="1710256282809" duration="783000" />
+      <workItem from="1710256282809" duration="1187000" />
+      <workItem from="1710344284775" duration="417000" />
     </task>
     <servers />
   </component>
