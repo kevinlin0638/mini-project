@@ -2,7 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b94871-59b0-42d2-a760-de7a5549e3bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/mini_project_network_analysis_task_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project_network_analysis_task_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mini-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/mini_project_data_processing-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/mini_project_network_analysis-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/mini_project_network_analysis_task_1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/mini_project_network_analysis_task_2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.8'" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/202301-capitalbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/202302-captialbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/202303-capitalbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/202304-capitalbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/202305-capitalbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/202306-capitalbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/202307-capitalbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/202308-capitalbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/202309-capitalbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/202310-capitalbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/202311-capitalbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/202312-capitalbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/202401-capitalbikeshare-tripdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini project idea.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_data_processing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_network_analysis_task_1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project_network_analysis_task_2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_data/edge_file.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_data/monthly_results.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_data/node_attributes_file.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_data/quarterly_results.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_data/stations_geo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_data/total_edge_undirectional.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quarterly_results.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +88,7 @@
       <workItem from="1708788251711" duration="282000" />
       <workItem from="1710082948187" duration="4241000" />
       <workItem from="1710256282809" duration="1187000" />
-      <workItem from="1710344284775" duration="985000" />
+      <workItem from="1710344284775" duration="1822000" />
     </task>
     <servers />
   </component>
